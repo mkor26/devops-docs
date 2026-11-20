@@ -4,6 +4,7 @@ site_author: Коротаев Максим
 site_url: https://mkor26.github.io/devops-docs/
 repo_name: mkor26/devops-docs
 repo_url: https://github.com/mkor26/devops-docs
+edit_uri: edit/main/docs/
 theme:
   name: mkdocs
   locale: ru
